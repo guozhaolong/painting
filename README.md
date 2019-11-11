@@ -14,7 +14,7 @@
     <img height="200" src="https://github.com/guozhaolong/painting/raw/master/assets/wife3.jpg"/>
 </div>
 
-#### mouse hand painted in msn era
+#### msn era
 <div style="display:inline-block">
     <img height="100" src="https://github.com/guozhaolong/painting/raw/master/assets/kfc.jpg"/>
     <img height="100" src="https://github.com/guozhaolong/painting/raw/master/assets/starbucks.jpg"/>
